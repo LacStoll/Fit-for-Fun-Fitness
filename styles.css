@@ -1,10 +1,13 @@
 /* o.O */
 div{
-    background-color: lightcoral;
+    background-color: auto;
 }
 
+*{
+    font-family: 'Roboto Slab', serif;
+}
 
 /* hahaha */
 .container {
-    background-color: blue;
+    background-color: auto;
 }
